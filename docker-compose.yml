@@ -5,12 +5,20 @@ services:
     ports:
       - 5432:5432
     volumes:
-      
+      - ./postgres-data:/var/lib/postgresql/data
+      - ./postgres-init:/docker-entrypoint-initdb.d
+      - ./1-createdb.sql:/postgres-init/1-createdb.sql
+    environment:
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_USER=user
+      - POSTGRES_DB=music
     healthcheck:
       test: bash -c "echo 0"
       interval: 30s
       timeout: 5s
       retries: 3
-networks:
-  custom:
-    name: music-db
+  backend:
+
+#networks:
+#  default:
+#    driver: custom-driver-1
