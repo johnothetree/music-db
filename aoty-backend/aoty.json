@@ -1,0 +1,632 @@
+[
+    {
+        "date": "01/04/19",
+        "band": "Shrezzers",
+        "album": "Relationships",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/11/19",
+        "band": "Jon Hill Project",
+        "album": "Rebirth",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/11/19",
+        "band": "Holehearted",
+        "album": "Hivemind",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "01/11/19",
+        "band": "Humble Abode",
+        "album": "Manic Mansion EP",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/11/19",
+        "band": "Jinjer",
+        "album": "Micro EP",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/11/19",
+        "band": "Born of Osiris",
+        "album": "The Simulation",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/18/19",
+        "band": "Fever 333",
+        "album": "Strength in Numb333rs",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "01/18/19",
+        "band": "Future",
+        "album": "The WIZRD",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/18/19",
+        "band": "James Blake",
+        "album": "Assume Form",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/18/19",
+        "band": "Polyenso",
+        "album": "Year of the Dog",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/18/19",
+        "band": "Young Culture",
+        "album": "(This Is) Heaven EP",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/18/19",
+        "band": "Wristmeetrazor",
+        "album": "Misery Never Forgets",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/18/19",
+        "band": "Papa Roach",
+        "album": "Who Do You Trust?",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/24/19",
+        "band": "better oblivion community center",
+        "album": "better oblivion community center",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/24/19",
+        "band": "Weezer",
+        "album": "Teal Album",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/25/19",
+        "band": "Judiciary",
+        "album": "Surface Noise",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/25/19",
+        "band": "The Drowned God",
+        "album": "I'll ALways Be The Same",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/25/19",
+        "band": "SeeYouSpaceCowboy",
+        "album": "Songs for the Firing Squad",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "01/25/19",
+        "band": "Chase Atlantic",
+        "album": "DON'T TRY THIS EP",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/25/19",
+        "band": "Say Anything",
+        "album": "Oliver Appropriate",
+        "johnoNotables": ""
+    },
+    {
+        "date": "01/25/19",
+        "band": "BMTH",
+        "album": "Amo",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "02/01/19",
+        "band": "Spielbergs",
+        "album": "This Is Not The End",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/01/19",
+        "band": "Ithaca",
+        "album": "THe Language of Injury",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/01/19",
+        "band": "Astronoid",
+        "album": "Astronoid",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/01/19",
+        "band": "Drag Me Out",
+        "album": "Pressure",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/01/19",
+        "band": "Gideon",
+        "album": "No Love/No One EP",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "02/08/19",
+        "band": "Ariana Grande",
+        "album": "thank u, next",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "02/08/19",
+        "band": "Year of the Knife",
+        "album": "Ultimate Aggression",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/08/19",
+        "band": "Lilac Kings",
+        "album": "Goodnight",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/08/19",
+        "band": "Emarosa",
+        "album": "Peach Club",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "02/14/19",
+        "band": "Copeland",
+        "album": "Blushing",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/15/19",
+        "band": "Crystal Lake",
+        "album": "Helix",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "02/20/19",
+        "band": "Promise Breaker",
+        "album": "Televiolence",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/22/19",
+        "band": "Dream Theater",
+        "album": "Distance over Time",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/22/19",
+        "band": "Attila",
+        "album": "Villain",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/22/19",
+        "band": "Ghost Iris",
+        "album": "Apple of Discord",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/22/19",
+        "band": "Boundaries",
+        "album": "My Body in Bloom EP",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/22/19",
+        "band": "Blood Youth",
+        "album": "Starve",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/22/19",
+        "band": "Badflower",
+        "album": "OK, I'm Sick",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/22/19",
+        "band": "ExitWounds",
+        "album": "Visions EP",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/22/19",
+        "band": "Deadships",
+        "album": "D.O.A.",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/22/19",
+        "band": "Ghost Atlas",
+        "album": "Sleep Therapy: An Acoustic Performance",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/22/19",
+        "band": "Night Lovell",
+        "album": "GOODNIGHT LOVELL",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/22/19",
+        "band": "grandson",
+        "album": "a modern tragedy vol. 2",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/22/19",
+        "band": "To the Rats and Wolves",
+        "album": "Cheap Love",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/23/19",
+        "band": "Body Thief",
+        "album": "Travel Glow",
+        "johnoNotables": ""
+    },
+    {
+        "date": "02/25/19",
+        "band": "Traitors",
+        "album": "Repent",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/01/19",
+        "band": "Demon Hunter",
+        "album": "Peace",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/01/19",
+        "band": "Demon Hunter",
+        "album": "War",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/01/19",
+        "band": "Weezer",
+        "album": "Black Album",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/01/19",
+        "band": "While She Sleeps",
+        "album": "So What?",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/01/19",
+        "band": "Modern Error",
+        "album": "Lost in the Noise",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/01/19",
+        "band": "The Japanese House",
+        "album": "Good At Falling",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/04/19",
+        "band": "Better Off",
+        "album": "Reap What You Sow",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "03/08/19",
+        "band": "Gesaffelstein",
+        "album": "Hyperion",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/08/19",
+        "band": "Juice WRLD",
+        "album": "Death Race For Love",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/08/19",
+        "band": "Foals",
+        "album": "Everything Not Saved Will Be Lost Pt 1",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/08/19",
+        "band": "Youth Fountain",
+        "album": "Letters to Our Former Selves",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/08/19",
+        "band": "Holding Absence",
+        "album": "s/t",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "03/12/19",
+        "band": "Inclination",
+        "album": "When Fear Turns To Confidence",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "03/15/19",
+        "band": "Venom Prison",
+        "album": "Samsara",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/15/19",
+        "band": "VRSTY",
+        "album": "Blck",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/15/19",
+        "band": "Angel Du$t",
+        "album": "Pretty Buff",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/20/19",
+        "band": "Flume",
+        "album": "Hi This Is Flume",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/20/19",
+        "band": "Bastian",
+        "album": " Self Titled",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/22/19",
+        "band": "Parting Gift",
+        "album": "Ensom",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/22/19",
+        "band": "thoughtcrimes",
+        "album": "Tap Night EP",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/22/19",
+        "band": "Unturned ",
+        "album": "Sunk EP",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/22/19",
+        "band": "La Dispute",
+        "album": "Panorama",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "03/22/19",
+        "band": "Mayfield",
+        "album": "Careless Love",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/26/19",
+        "band": "Logic",
+        "album": "Supermarket",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/29/19",
+        "band": "Billie Eilish",
+        "album": "When We All Fall Asleep, Where Do We Go?",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "03/29/19",
+        "band": "I Prevail",
+        "album": "Trauma",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/29/19",
+        "band": "Whitechapel",
+        "album": "The Valley",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/29/19",
+        "band": "Combust",
+        "album": "The Void EP",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/29/19",
+        "band": "The Maine",
+        "album": "You Are OK",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/29/19",
+        "band": "Free Throw",
+        "album": "What's Past is Prologue",
+        "johnoNotables": ""
+    },
+    {
+        "date": "03/29/19",
+        "band": "Moon Tooth",
+        "album": "Crux",
+        "johnoNotables": ""
+    },
+    {
+        "date": "04/05/19",
+        "band": "Khalid",
+        "album": "Free Spirit",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "04/05/19",
+        "band": "Eluveitie",
+        "album": "Ategnatos",
+        "johnoNotables": ""
+    },
+    {
+        "date": "04/05/19",
+        "band": "Enterprise Earth",
+        "album": "Luciferous",
+        "johnoNotables": ""
+    },
+    {
+        "date": "04/05/19",
+        "band": "Periphery",
+        "album": "HAIL STAN",
+        "johnoNotables": ""
+    },
+    {
+        "date": "04/05/19",
+        "band": "Dealer",
+        "album": "Soul Burn EP",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "04/12/19",
+        "band": "BTS",
+        "album": "Map of the Soul: Persona",
+        "johnoNotables": ""
+    },
+    {
+        "date": "04/12/19",
+        "band": "Anderson .Paak",
+        "album": "Ventura",
+        "johnoNotables": ""
+    },
+    {
+        "date": "04/17/19",
+        "band": "PhaseOne",
+        "album": "Transcendency",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "04/19/19",
+        "band": "Sullii",
+        "album": "You and Everything Blue",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "04/19/19",
+        "band": "After the Burial",
+        "album": "Evergreen",
+        "johnoNotables": ""
+    },
+    {
+        "date": "04/19/19",
+        "band": "Alpha Wolf",
+        "album": "Fault EP",
+        "johnoNotables": ""
+    },
+    {
+        "date": "04/26/19",
+        "band": "Chet Faker",
+        "album": "Run Fast Sleep Naked",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "04/26/19",
+        "band": "blackbear",
+        "album": "ANONYMOUS",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "04/26/19",
+        "band": "Marina",
+        "album": "Love + Fear",
+        "johnoNotables": ""
+    },
+    {
+        "date": "05/02/19",
+        "band": "Diplo",
+        "album": "Higher Ground",
+        "johnoNotables": ""
+    },
+    {
+        "date": "05/03/19",
+        "band": "Amon Amarth",
+        "album": "Berserker",
+        "johnoNotables": ""
+    },
+    {
+        "date": "05/03/19",
+        "band": "Vampire Weekend",
+        "album": "Father of the Bride",
+        "johnoNotables": ""
+    },
+    {
+        "date": "05/05/19",
+        "band": "Avarice",
+        "album": "Adoration Through Annihilation EP",
+        "johnoNotables": ""
+    },
+    {
+        "date": "05/10/19",
+        "band": "Logic",
+        "album": "Confessions of a Dangerous Mind",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "05/17/19",
+        "band": "Glassing",
+        "album": "Spotted Horse",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "05/17/19",
+        "band": "Rammstein",
+        "album": "RAMMSTEIN",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "05/17/19",
+        "band": "CRJ",
+        "album": "Dedicated",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "05/17/19",
+        "band": "Full of Hell",
+        "album": "Weeping Choir",
+        "johnoNotables": ""
+    },
+    {
+        "date": "05/17/19",
+        "band": "Tyler the Creator",
+        "album": "Igor",
+        "johnoNotables": ""
+    },
+    {
+        "date": "05/23/19",
+        "band": "Megan Hamilton",
+        "album": "Feed the Animals EP",
+        "johnoNotables": "-"
+    },
+    {
+        "date": "05/31/19",
+        "band": "Angelmaker",
+        "album": "AngelMaker",
+        "johnoNotables": ""
+    },
+    {
+        "date": "05/31/19",
+        "band": "Denzel Curry",
+        "album": "Zuu",
+        "johnoNotables": "-"
+    }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "aoty-backend",
+  "version": "1.0.0",
+  "description": "Album of the Year nodejs to maintain list csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnothetree/aoty-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnothetree/aoty-backend/issues"
+  },
+  "homepage": "https://github.com/johnothetree/aoty-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "csv-parser": "^2.3.0",
+    "csv-stringify": "^5.3.0",
+    "express": "^4.17.1"
+  }
+}

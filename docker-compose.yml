@@ -18,6 +18,14 @@ services:
       timeout: 5s
       retries: 3
   backend:
+    build: './aoty-backend/.'
+    ports:
+      - 3000:3000
+#  ui:
+#    build: './aoty-ui/.'
+#    ports:
+#      - 3001:3001
+
 
 #networks:
 #  default:
